@@ -3883,7 +3883,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "VAT/TAX ID","CPF/CNPJ",module,Magento_Company
 "Re-seller ID","ID da Revenda",module,Magento_Company
 "Legal Address","Endereço Padrão",module,Magento_Company
-"Street Address","Rua",module,Magento_Company
+"Street Address","Endereço",module,Magento_Company
 "City","Cidade",module,Magento_Company
 "Country","País",module,Magento_Company
 "State/Province","Estado",module,Magento_Company
@@ -5341,7 +5341,7 @@ Template de email escolhido baseado no padrão do tema quando a opção ""Padrã
 "New customer address has been added.","New customer address has been added.",module,Magento_Customer
 "There is no customer with such id.","There is no customer with such id.",module,Magento_Customer
 "We can't change customer address right now.","We can't change customer address right now.",module,Magento_Customer
-"Street","Rua",module,Magento_Customer
+"Street","Logradouro",module,Magento_Customer
 "Set as default billing","Set as default billing",module,Magento_Customer
 "Set address as default billing","Set address as default billing",module,Magento_Customer
 "Are you sure you want to set the address as default billing address?","Are you sure you want to set the address as default billing address?",module,Magento_Customer
@@ -11639,7 +11639,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Enable RMA on Product Level","Habilitar RMA a nível de produto",module,Magento_Rma
 "Use Store Address","Usar endereço da loja",module,Magento_Rma
 "Contact Name","Nome do contato",module,Magento_Rma
-"Street Address","Rua",module,Magento_Rma
+"Street Address","Endereço",module,Magento_Rma
 "City","Cidade",module,Magento_Rma
 "State/Province","Estado",module,Magento_Rma
 "ZIP/Postal Code","Código Postal",module,Magento_Rma
@@ -12176,7 +12176,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "First Name","Nome",module,Magento_Sales
 "Last Name","Sobrenome",module,Magento_Sales
 "State/Province","Estado",module,Magento_Sales
-"Street Address","Rua",module,Magento_Sales
+"Street Address","Endereço",module,Magento_Sales
 "Phone Number","Telefone",module,Magento_Sales
 "Zip/Postal Code","CEP",module,Magento_Sales
 "We can't save the address:\n%1","Não é possível salvar o endereço:\n%1",module,Magento_Sales
@@ -13580,7 +13580,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Region/State","Região/estado",module,Magento_Shipping
 "ZIP/Postal Code","Código Postal",module,Magento_Shipping
 "City","Cidade",module,Magento_Shipping
-"Street Address","Rua",module,Magento_Shipping
+"Street Address","Endereço",module,Magento_Shipping
 "Street Address Line 2","Endereço 2",module,Magento_Shipping
 "Shipping Policy Parameters","Parâmetros da Política de Entrega",module,Magento_Shipping
 "Apply custom Shipping Policy","Aplicar Política de Entrega Personalizada",module,Magento_Shipping
