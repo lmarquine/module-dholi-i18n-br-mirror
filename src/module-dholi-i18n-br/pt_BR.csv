@@ -3318,7 +3318,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Password","Senha",module,Magento_Checkout
 "Forgot Your Password?","Esqueci minha senha?",module,Magento_Checkout
 "Forgot Your Password","Esqueci minha senha",module,Magento_Checkout
-"My billing and shipping address are the same","Entregar neste endereço",module,Magento_Checkout
+"My billing and shipping address are the same","Meu endereço de cobrança é igual ao meu endereço de entrega",module,Magento_Checkout
 "Update","Atualizar",module,Magento_Checkout
 "Cancel","Cancelar",module,Magento_Checkout
 "Save in address book","Salvar no catálogo de endereços",module,Magento_Checkout
