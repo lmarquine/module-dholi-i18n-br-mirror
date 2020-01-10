@@ -3205,6 +3205,8 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_CatalogWidget
 ",module,Magento_CatalogWidget
 "Shopping Cart","Sacola de compras",module,Magento_Checkout
+"View cart","Sacola de compras",module,Magento_Checkout
+"Pay %1","Pagar %1",module,Magento_Checkout
 "Invalid method: %1","Método inválido: %1",module,Magento_Checkout
 "City","Cidade",module,Magento_Checkout
 "Country","País",module,Magento_Checkout
