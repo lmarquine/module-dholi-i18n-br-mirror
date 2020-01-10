@@ -3287,7 +3287,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Edit item parameters","Alterar parâmetros do item",module,Magento_Checkout
 "Edit","Alterar",module,Magento_Checkout
 "Remove item","Remover item",module,Magento_Checkout
-"You have no items in your shopping cart.","Não há itens na sacola de compras.",module,Magento_Checkout
+"You have no items in your shopping cart.","Sua sacola de compras está vazia.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Clique <a href=""%1"">aqui</a> para continuar comprando.",module,Magento_Checkout
 "Estimate Tax","Consultar Frete/Impostos",module,Magento_Checkout
 "Estimate Shipping and Tax","Calcular valor do frete e imposto",module,Magento_Checkout
@@ -3336,8 +3336,8 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Place Order","Finalizar compra",module,Magento_Checkout
 "Forgot an Item?","Esqueceu algum Item?",module,Magento_Checkout
 "Edit Your Cart","Alterar a sacola",module,Magento_Checkout
-"Ship here","Entregue aqui",module,Magento_Checkout
-"Ship Here","Entregue aqui",module,Magento_Checkout
+"Ship here","Entregar neste endereço",module,Magento_Checkout
+"Ship Here","Entregar neste endereço",module,Magento_Checkout
 "Ship To:","Enviar para:",module,Magento_Checkout
 "edit","editar",module,Magento_Checkout
 "Order Summary","Resumo do Pedido",module,Magento_Checkout
@@ -3883,7 +3883,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "VAT/TAX ID","CPF/CNPJ",module,Magento_Company
 "Re-seller ID","ID da Revenda",module,Magento_Company
 "Legal Address","Endereço Padrão",module,Magento_Company
-"Street Address","Endereço",module,Magento_Company
+"Street Address","Logradouro",module,Magento_Company
 "City","Cidade",module,Magento_Company
 "Country","País",module,Magento_Company
 "State/Province","Estado",module,Magento_Company
@@ -5046,6 +5046,10 @@ new products will be created. Use this step to customize images and price for yo
 "You have no other address entries in your address book.","Você não tem outras entradas de endereços no catálogo de endereços.",module,Magento_Customer
 "* Required Fields","* Informações obrigatórias",module,Magento_Customer
 "Address","Endereço",module,Magento_Customer
+"Street Address","Logradouro",module,Magento_Customer
+"Street Address 2","Número",module,Magento_Customer
+"Street Address 3","Complemento",module,Magento_Customer
+"Street Address 4","Bairro",module,Magento_Customer
 "VAT Number","CPF/CNPJ",module,Magento_Customer
 "City","Cidade",module,Magento_Customer
 "State/Province","Estado",module,Magento_Customer
@@ -5254,7 +5258,7 @@ Template de email escolhido baseado no padrão do tema quando a opção ""Padrã
 "Edit Account Information","Alterar informações da conta",module,Magento_Customer
 "Password forgotten","Esqueci a senha",module,Magento_Customer
 "My Dashboard","Meu painel de controle",module,Magento_Customer
-"You are signed out","Seu Login foi finalizado",module,Magento_Customer
+"You are signed out","Logout realizado com sucesso.",module,Magento_Customer
 "You subscribe to our newsletter.","Você se inscreveu em nossa newsletter.",module,Magento_Customer
 "You don't subscribe to our newsletter.","Você não se inscreveu em nossa newsletter.",module,Magento_Customer
 "Maximum length must be less then %1 symbols","O tamanho máximo deve ser menor que %1 símbolos",module,Magento_Customer
