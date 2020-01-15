@@ -164,7 +164,7 @@
 "The file is corrupt.","O arquivo está corrompido.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Por favor carregue o arquivo em formato .csv",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 item(ns) precisa(m) de sua atenção.",module,Magento_AdvancedCheckout
-"Apply Coupon Code","Aplicar cupom de desconto",module,Magento_AdvancedCheckout
+"Apply Coupon Code","Cupom de desconto",module,Magento_AdvancedCheckout
 "Remove Coupon Code","Remover Cupom de Desconto",module,Magento_AdvancedCheckout
 "Remove","Remover",module,Magento_AdvancedCheckout
 "The coupon code ""%1"" is not valid.","O cupom de desconto ""%1"" é inválido.",module,Magento_AdvancedCheckout
@@ -1740,10 +1740,12 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "New Product Attribute","Novo Atributo de Produto",module,Magento_Catalog
 "Advanced Attribute Properties","Propriedades de Atributo Avançado",module,Magento_Catalog
 "Attribute Code","Código do Atributo",module,Magento_Catalog
+"Price range:","Faixa de preço",module,Magento_Catalog
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Isso é usado internamente. Certifique-se de que você não use espaços ou mais de %1 símbolo(s).",module,Magento_Catalog
 "Default Value","Valor Padrão",module,Magento_Catalog
 "Unique Value","Valor Único",module,Magento_Catalog
 "Unique Value (not shared with other products)","Valor Único (não compartilhado com outros produtos)",module,Magento_Catalog
+"No more products","Não há mais produtos.",module,Magento_Catalog
 "Not shared with other products.","Não compartilhado com outros produtos.",module,Magento_Catalog
 "Input Validation for Store Owner","Campo de Validação para o dono da loja",module,Magento_Catalog
 "Add to Column Options","Adicionar a coluna de opções",module,Magento_Catalog
@@ -3268,7 +3270,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "DB exception","Erro de Banco de Dados",module,Magento_Checkout
 "Message","Mensagem",module,Magento_Checkout
 "Print receipt","Imprimir",module,Magento_Checkout
-"Apply Discount Code","Aplicar cupom de desconto",module,Magento_Checkout
+"Apply Discount Code","Cupom de desconto",module,Magento_Checkout
 "Enter discount code","Informe o cupom de desconto",module,Magento_Checkout
 "Apply Discount","Aplicar desconto",module,Magento_Checkout
 "Cancel Coupon","Cancelar Cupom",module,Magento_Checkout
@@ -3289,7 +3291,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "You have no items in your shopping cart.","Sua sacola de compras está vazia.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Clique <a href=""%1"">aqui</a> para continuar comprando.",module,Magento_Checkout
 "Estimate Tax","Consultar Frete/Impostos",module,Magento_Checkout
-"Estimate Shipping and Tax","Calcular valor do frete e imposto",module,Magento_Checkout
+"Estimate Shipping and Tax","Frete e impostos",module,Magento_Checkout
 "Enter your destination to get a shipping estimate.","Informe seu endereço",module,Magento_Checkout
 "Excl. Tax","Excl. Impostos",module,Magento_Checkout
 "Loading...","Carregando...",module,Magento_Checkout
@@ -8807,7 +8809,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "The Quote expires after ","The Quote expires after ",module,Magento_NegotiableQuote
 "Item in Quote","Item in Quote",module,Magento_NegotiableQuote
 "Items in Quote","Items in Quote",module,Magento_NegotiableQuote
-"Apply Discount Code","Aplicar cupom de desconto",module,Magento_NegotiableQuote
+"Apply Discount Code","Cupom de desconto",module,Magento_NegotiableQuote
 "Enter discount code","Informe o cupom de desconto",module,Magento_NegotiableQuote
 "Apply Discount","Aplicar desconto",module,Magento_NegotiableQuote
 "Cancel coupon","Cancelar cupom",module,Magento_NegotiableQuote
@@ -12229,7 +12231,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Not Notified","Não notificado",module,Magento_Sales
 "No Payment Methods","Não há Formas de Pagamento",module,Magento_Sales
 "Order Comments","Comentários do pedido",module,Magento_Sales
-"Apply Coupon Code","Aplicar cupom de desconto",module,Magento_Sales
+"Apply Coupon Code","Cupom de desconto",module,Magento_Sales
 "Apply","Aplicar",module,Magento_Sales
 "Remove Coupon Code","Remover Cupom de Desconto",module,Magento_Sales
 "Remove","Remover",module,Magento_Sales
@@ -12785,7 +12787,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Some coupons are invalid.","Alguns cupons são inválidos.",module,Magento_SalesRule
 "Item totals are not set for the rule.","Os totais dos itens não estão definidos para a regra.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 regras de preço da sacola baseadas em ""%2"" atributos foram desativadas.",module,Magento_SalesRule
-"Apply Discount Code","Aplicar cupom de desconto",module,Magento_SalesRule
+"Apply Discount Code","Cupom de desconto",module,Magento_SalesRule
 "Enter discount code","Informe o cupom de desconto",module,Magento_SalesRule
 "Apply Discount","Aplicar desconto",module,Magento_SalesRule
 "Cancel coupon","Cancelar cupom",module,Magento_SalesRule
