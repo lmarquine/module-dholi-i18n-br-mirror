@@ -1875,8 +1875,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "PM","PM",module,Magento_Catalog
 "-- Please Select --","-- Selecione uma opção --",module,Magento_Catalog
 "None","Nenhum",module,Magento_Catalog
-"New Products from %1","Novos produtos de %1",module,Magento_Catalog
-"New Products","Novos Produtos",module,Magento_Catalog
+"New Products from %1","Lançamentos de %1",module,Magento_Catalog
+"New Products","Lançamentos",module,Magento_Catalog
 "%1 - Special Products","%1 - produtos especiais",module,Magento_Catalog
 "Click for price","Clique para precificar",module,Magento_Catalog
 "Special Expires On: %1","Especial expira em: %1",module,Magento_Catalog
@@ -2404,12 +2404,12 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Index product prices","Indexar os preços de produtos",module,Magento_Catalog
 "Product EAV","Produto EAV",module,Magento_Catalog
 "Index product EAV","Indexar EAV do produto",module,Magento_Catalog
-"Catalog New Products List","Lista de Novos Produtos do Catálogo",module,Magento_Catalog
+"Catalog New Products List","Lançamentos do catálogo",module,Magento_Catalog
 "List of Products that are set as New","Lista de produtos definidos como novo",module,Magento_Catalog
 "Display Type","Tipo de Exibição",module,Magento_Catalog
-"All products - recently added products, New products - products marked as new","Todos os produtos - produtos recentemente adicionados, novos produtos - produtos marcados como novo",module,Magento_Catalog
+"All products - recently added products, New products - products marked as new","Todos os produtos - produtos recentemente adicionados, lançamentos - produtos marcados como novo",module,Magento_Catalog
 "All products","Todos os produtos",module,Magento_Catalog
-"New products","Novos Produtos",module,Magento_Catalog
+"New products","Lançamentos",module,Magento_Catalog
 "Display Page Control","Exibir controle de página",module,Magento_Catalog
 "Number of Products per Page","Número de produtos por página",module,Magento_Catalog
 "Number of Products to Display","Número de produtos para exibir",module,Magento_Catalog
@@ -2417,8 +2417,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "New Products Grid Template","Novo modelo de grade de produtos",module,Magento_Catalog
 "New Products List Template","Novo modelo de lista de produtos",module,Magento_Catalog
 "New Products Images and Names Template","Novo Template de Imagens e Nomes de Produtos",module,Magento_Catalog
-"New Products Names Only Template","Template apenas para Imagens dos Novos Produtos",module,Magento_Catalog
-"New Products Images Only Template","Template apenas para Imagens dos Novos Produtos",module,Magento_Catalog
+"New Products Names Only Template","Template apenas para imagens dos lançamentos",module,Magento_Catalog
+"New Products Images Only Template","Template apenas para imagens dos lançamentos",module,Magento_Catalog
 "Cache Lifetime (Seconds)","Tempo de Vida da Cache (Segundos)",module,Magento_Catalog
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 por pré-definição, se não estiver definido. Para atualizar instantaneamente, limpe a cache de Output HTML dos Blocos.",module,Magento_Catalog
 "Catalog Product Link","Link de Produto do Catálogo",module,Magento_Catalog
@@ -3197,12 +3197,12 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Cache Lifetime (Seconds)","Tempo de Vida da Cache (Segundos)",module,Magento_CatalogWidget
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 por pré-definição, se não estiver definido. Para atualizar instantaneamente, limpe a cache de Output HTML dos Blocos.",module,Magento_CatalogWidget
 "Conditions","Condições",module,Magento_CatalogWidget
-Time in seconds between the widget updates.,module,Magento_CatalogWidget
-<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.,module,Magento_CatalogWidget
-<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_CatalogWidget
-Time in seconds between the widget updates.,module,Magento_CatalogWidget
-<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.,module,Magento_CatalogWidget
-<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_CatalogWidget
+"Time in seconds between the widget updates.","Time in seconds between the widget updates.",module,Magento_CatalogWidget
+"If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.","If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.",module,Magento_CatalogWidget
+"Widget will not show products that begin to match the specified conditions until cache is refreshed.","Widget will not show products that begin to match the specified conditions until cache is refreshed.",module,Magento_CatalogWidget
+"Time in seconds between the widget updates.","Time in seconds between the widget updates.",module,Magento_CatalogWidget
+"If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.","If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.",module,Magento_CatalogWidget
+"Widget will not show products that begin to match the specified conditions until cache is refreshed.","Widget will not show products that begin to match the specified conditions until cache is refreshed.",module,Magento_CatalogWidget
 "Shopping Cart","Sacola de compras",module,Magento_Checkout
 "View cart","Sacola de compras",module,Magento_Checkout
 "Pay %1","Pagar %1",module,Magento_Checkout
@@ -4471,7 +4471,7 @@ Utilizar o valor do sistema",module,Magento_Config
 "Create New Value","Criar Novo Valor",module,Magento_ConfigurableProduct
 "Step 3: Bulk Images, Price and Quantity","Passo 3: Imagens em Massa, Preço e Quantidade",module,Magento_ConfigurableProduct
 "Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.",",module,Magento_ConfigurableProduct
-Com base nas suas seleções %1 novos produtos serão criados. Use esta etapa para personalizar imagens e preço para seus novos produtos.",module,Magento_ConfigurableProduct
+Com base nas suas seleções %1 lançamentos serão criados. Use esta etapa para personalizar imagens e preço para seus lançamentos.",module,Magento_ConfigurableProduct
 "Images","Imagens",module,Magento_ConfigurableProduct
 "Apply single set of images to all SKUs","Aplicar conjunto de imagens único para todos os SKUs",module,Magento_ConfigurableProduct
 "Apply unique images by attribute to each SKU","Aplicar imagens únicas por atributos para cada SKU",module,Magento_ConfigurableProduct
@@ -4559,7 +4559,7 @@ Precisa de criar um produto simples para cada configuração (Ex: um produto par
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Selecione os valores de cada atributo para incluir neste produto. Cada combinação de valores cria um SKU de produto único.",module,Magento_ConfigurableProduct
 "Step 3: Bulk Images, Price, and Quantity","Etapa 3: Fotos, Preço e Quantidade",module,Magento_ConfigurableProduct
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>,module,Magento_ConfigurableProduct
-new products will be created. Use this step to customize images and price for your new products.","Com base em suas seleções <span class=""new-products-count"" data-bind=""text:countVariations""></span> novos produtos serão criados. Use esta etapa para personalizar imagens e preço para seus novos produtos.",module,Magento_ConfigurableProduct
+new products will be created. Use this step to customize images and price for your new products.","Com base em suas seleções <span class=""new-products-count"" data-bind=""text:countVariations""></span> lançamentos serão criados. Use esta etapa para personalizar imagens e preço para seus lançamentos.",module,Magento_ConfigurableProduct
 "Edit role","Regra de edição",module,Magento_ConfigurableProduct
 "Please, select attribute for the section ","Por favor, selecione o atributo para a seção ",module,Magento_ConfigurableProduct
 "Please fill in the values for the section ","Por favor, preencha os valores para a seção ",module,Magento_ConfigurableProduct
