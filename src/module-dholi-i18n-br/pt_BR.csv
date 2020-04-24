@@ -423,7 +423,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentia
 "Credit Card Type","Bandeira do Cartão de Crédito",module,Magento_Authorizenet
 "Please Select","Por Favor Selecione",module,Magento_Authorizenet
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Authorizenet
-"Expiration Date","Data de Validade",module,Magento_Authorizenet
+"Expiration Date","Vencimento",module,Magento_Authorizenet
 "Card Verification Number","Código de Verificação do Cartão",module,Magento_Authorizenet
 "Fraud Detection ","Detecção de Fraudes ",module,Magento_Authorizenet
 "FDS Filter Action","Ação do Filtro FDS",module,Magento_Authorizenet
@@ -470,7 +470,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentia
 "Authorize and Capture","Autorizar e Capturar",module,Magento_AuthorizenetAcceptjs
 "Credit Card Type","Bandeira do Cartão de Crédito",module,Magento_AuthorizenetAcceptjs
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_AuthorizenetAcceptjs
-"Expiration Date","Data de Validade",module,Magento_AuthorizenetAcceptjs
+"Expiration Date","Vencimento",module,Magento_AuthorizenetAcceptjs
 "Card Verification Number","Código de Verificação do Cartão",module,Magento_AuthorizenetAcceptjs
 "Authorize.Net","Authorize.Net",module,Magento_AuthorizenetAcceptjs
 "Enabled","Habilitado",module,Magento_AuthorizenetAcceptjs
@@ -1268,7 +1268,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentia
 "Authorize and Capture","Autorizar e Capturar",module,Magento_Braintree
 "--Please Select--","-- Por favor, selecione --",module,Magento_Braintree
 "Credit Card","Cartão de Crédito",module,Magento_Braintree
-"ending","acabando em",module,Magento_Braintree
+"ending","Terminado em",module,Magento_Braintree
 "expires","expira em",module,Magento_Braintree
 "PayPal","PayPal",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Por favor concorde com todos os termos e condições antes de fazer o pedido.",module,Magento_Braintree
@@ -1276,7 +1276,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentia
 "Credit Card Type","Bandeira do Cartão de Crédito",module,Magento_Braintree
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Braintree
 "Please, enter valid Credit Card Number","Por favor insira um Número de Cartão de Crédito válido",module,Magento_Braintree
-"Expiration Date","Data de Validade",module,Magento_Braintree
+"Expiration Date","Vencimento",module,Magento_Braintree
 "Please, enter valid Expiration Date","Por favor insira uma Data de Vencimento válida",module,Magento_Braintree
 "Card Verification Number","Código de Verificação do Cartão",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Por favor insira um número de verificação de cartão válido",module,Magento_Braintree
@@ -1287,7 +1287,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentia
 "Delete","Excluir",module,Magento_Braintree
 "Credit Card Information","Informações do cartão de crédito",module,Magento_Braintree
 "What is this?","O que é isto?",module,Magento_Braintree
-"Save for later use.","Gravar para uso futuro.",module,Magento_Braintree
+"Save for later use.","Salvar para compras futuras.",module,Magento_Braintree
 "Place Order","Finalizar compra",module,Magento_Braintree
 "This payment is not available","Este pagamento não está disponível",module,Magento_Braintree
 "MM","MM",module,Magento_Braintree
@@ -1478,7 +1478,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentia
 "Zip/Postal Code","CEP",module,Magento_Braintree
 "Submit","Enviar",module,Magento_Braintree
 "Add Credit Card","Adicionar Cartão de Crédito",module,Magento_Braintree
-"Card Number","Numero do cartao",module,Magento_Braintree
+"Card Number","Número do cartão",module,Magento_Braintree
 "Is Default","É o Padrão",module,Magento_Braintree
 "Yes","Sim",module,Magento_Braintree
 "No","Não",module,Magento_Braintree
@@ -3352,7 +3352,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "New Address","Novo Endereço",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Tem certeza que gostaria de remover este item da sacola de compras?",module,Magento_Checkout
 "Review & Payments","Revisão & Pagamentos",module,Magento_Checkout
-"Select a new payment method","Selecione um novo método de pagamento",module,Magento_Checkout
+"Select a new payment method","Selecione outra forma de pagamento",module,Magento_Checkout
 "Shipping","Frete",module,Magento_Checkout
 "Save Address","Salvar endereço",module,Magento_Checkout
 "Please specify a shipping method.","Por favor, especifique um método de envio.",module,Magento_Checkout
@@ -4249,15 +4249,15 @@ São permitidos no máximo 255 caracteres.                        ",module,Magen
 "Order Total","Total do pedido",module,Magento_CompanyCredit
 "%fieldName is a required field.","%fieldName é um campo obrigatório.",module,Magento_CompanyCredit
 "All Payment Methods","Todos os métodos de pagamento",module,Magento_CompanyPayment
-"Specific Payment Methods","Métodos de pagamento específicos",module,Magento_CompanyPayment
-"B2B Payment Methods","Métodos de pagamento B2B",module,Magento_CompanyPayment
+"Specific Payment Methods","Formas de pagamento específicas",module,Magento_CompanyPayment
+"B2B Payment Methods","Formas de pagamento B2B",module,Magento_CompanyPayment
 "All Enabled Payment Methods","Todos os métodos de pagamento permitidos",module,Magento_CompanyPayment
 " (disabled)"," (desabilitado)",module,Magento_CompanyPayment
 "Payment Information","Informação de pagamento",module,Magento_CompanyPayment
-"Available Payment Methods","Métodos de pagamento disponíveis",module,Magento_CompanyPayment
+"Available Payment Methods","Formas de pagamento disponíveis",module,Magento_CompanyPayment
 "This company has no payment methods. Please contact store administrator.","Esta empresa não possui métodos de pagamento. Por favor entre em contato com o administrador da loja.",module,Magento_CompanyPayment
-"Default B2B Payment Methods","Métodos de pagamento padrão B2B",module,Magento_CompanyPayment
-"Applicable Payment Methods","Métodos de pagamento aplicáveis",module,Magento_CompanyPayment
+"Default B2B Payment Methods","Formas de pagamento padrão B2B",module,Magento_CompanyPayment
+"Applicable Payment Methods","Formas de pagamento aplicáveis",module,Magento_CompanyPayment
 "Payment Methods","Forma de pagamento",module,Magento_CompanyPayment
 "By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","Por padrão, os métodos de pagamento selecionados estão disponíveis para todas as novas empresas. Se o seu site Magento tem vários sites, em um site específico, o comprador poderá pagar apenas com os métodos disponíveis para esse site.",module,Magento_CompanyPayment
 "Payment Information (View)","Informações de pagamento (Visualizar)",module,Magento_CompanyPayment
@@ -6550,7 +6550,7 @@ Template de email escolhido baseado no padrão do tema quando a opção ""Padrã
 "Mobile Verification","Verificação mobile",module,Magento_Eway
 "Phone Verification","Verificação de telefone",module,Magento_Eway
 "Card number","Número do cartão",module,Magento_Eway
-"Expiration Date","Data de Validade",module,Magento_Eway
+"Expiration Date","Vencimento",module,Magento_Eway
 "Response Code","Código de resposta",module,Magento_Eway
 "Fraud Message","Mensagem de Fraude",module,Magento_Eway
 "Approve Message","Aprovar Mensagem",module,Magento_Eway
@@ -6770,7 +6770,7 @@ Template de email escolhido baseado no padrão do tema quando a opção ""Padrã
 "No","Não",module,Magento_GiftCardAccount
 "Redeemable","Resgatáveis",module,Magento_GiftCardAccount
 "Website","Site",module,Magento_GiftCardAccount
-"Expiration Date","Data de Validade",module,Magento_GiftCardAccount
+"Expiration Date","Vencimento",module,Magento_GiftCardAccount
 "Send Gift Card","Enviar cartão presente",module,Magento_GiftCardAccount
 "Recipient Email","Email de destinatário",module,Magento_GiftCardAccount
 "Recipient Name","Nome do destinatário",module,Magento_GiftCardAccount
@@ -7645,7 +7645,7 @@ e.g. var/export, var/import, var/export/some/dir","Para o tipo ""Servidor Local"
 "Appropriate shipping method is not available.","O método de envio especificado não está disponível.",module,Magento_InstantPurchase
 "Cheapest price","Preço mais baixo",module,Magento_InstantPurchase
 "Instant purchase integration not available for token.","Integração de compra instantânea não disponível (token).",module,Magento_InstantPurchase
-"Instant Purchase","Compra instantânea",module,Magento_InstantPurchase
+"Instant Purchase","Comprar agora",module,Magento_InstantPurchase
 "Instant Purchase Confirmation","Confirmação de compra instantânea",module,Magento_InstantPurchase
 "Are you sure you want to place order and pay?","Tem certeza de que deseja finalizar compra e pagar?",module,Magento_InstantPurchase
 "Shipping Address","Endereço de entrega",module,Magento_InstantPurchase
@@ -8701,7 +8701,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Quote & Account Information","Quote & Account Information",module,Magento_NegotiableQuote
 "Quote # %1","Quote # %1",module,Magento_NegotiableQuote
 "Name","Nome",module,Magento_NegotiableQuote
-"Expiration Date","Data de Validade",module,Magento_NegotiableQuote
+"Expiration Date","Vencimento",module,Magento_NegotiableQuote
 "Account Information","Informações da conta",module,Magento_NegotiableQuote
 "Edit Company","Edit Company",module,Magento_NegotiableQuote
 "Sales Rep","Sales Rep",module,Magento_NegotiableQuote
@@ -9236,7 +9236,7 @@ If field is empty default value localhost will be saved.","Lista de IPs de acess
 "No","Não",module,Magento_Payment
 "Failure #1","Falha #1",module,Magento_Payment
 "Failure #2","Falha #2",module,Magento_Payment
-"Expiration Date","Data de Validade",module,Magento_Payment
+"Expiration Date","Vencimento",module,Magento_Payment
 "Card Verification Number","Código de Verificação do Cartão",module,Magento_Payment
 "Payment method","Método de pagamento",module,Magento_Payment
 " is not available. You still can process offline actions."," não está disponível. Você ainda pode processar ações off-line.",module,Magento_Payment
@@ -9254,7 +9254,7 @@ If field is empty default value localhost will be saved.","Lista de IPs de acess
 "Incorrect credit card expiration month.","Mês de validade do cartão de crédito incorreto.",module,Magento_Payment
 "Incorrect credit card expiration year.","Ano de expiração do cartão de crédito inválido.",module,Magento_Payment
 "An error occurred on the server. Please try to place the order again.","Ocorreu um erro no servidor. Por favor, tente fazer o pedido novamente.",module,Magento_Payment
-"Payment Methods Section","Secção de Métodos de Pagamento",module,Magento_Payment
+"Payment Methods Section","Secção de formas de pagamento",module,Magento_Payment
 "Payment Services","Serviços de Pagamento",module,Magento_Payment
 "Payment Methods","Formas de pagamento",module,Magento_Payment
 "Switch/Solo/Maestro Only","Apenas Switch/Solo/Maestro",module,Magento_Payment
@@ -9476,7 +9476,7 @@ If field is empty default value localhost will be saved.","Lista de IPs de acess
 "CNPJ","CNPJ",module,Magento_Paypal
 "CPF","CPF",module,Magento_Paypal
 "Credit Card","Cartão de Crédito",module,Magento_Paypal
-"ending","acabando em",module,Magento_Paypal
+"ending","Terminado em",module,Magento_Paypal
 "expires","expira em",module,Magento_Paypal
 "Note: %1","Nota: %1",module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Tipo de Caso ""%2"". ID do Caso: ""%3"" %4",module,Magento_Paypal
@@ -9632,7 +9632,7 @@ If field is empty default value localhost will be saved.","Lista de IPs de acess
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Uma vez logado na sua conta Payflow Link, navegue em Configurações de Serviço - Páginas Hosted Checkout - Configurar e marque as opções abaixo",module,Magento_Paypal
 "Credit Card Type","Bandeira do Cartão de Crédito",module,Magento_Paypal
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Paypal
-"Expiration Date","Data de Validade",module,Magento_Paypal
+"Expiration Date","Vencimento",module,Magento_Paypal
 "Card Verification Number","Código de Verificação do Cartão",module,Magento_Paypal
 "Billing Agreement # ","Acordo de Cobrança # ",module,Magento_Paypal
 "Agreement Information","Informação de contrato",module,Magento_Paypal
@@ -9720,7 +9720,7 @@ If field is empty default value localhost will be saved.","Lista de IPs de acess
 "Email Associated with PayPal Merchant Account (Optional)","Email Associado com a Conta de Comerciante PayPal (Opcional)",module,Magento_Paypal
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","Comece aceitando pagamentos via PayPal",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","Não tem uma conta PayPal? Basta digite o seu endereço de email.",module,Magento_Paypal
-"API Authentication Methods","Métodos de Autenticação da API",module,Magento_Paypal
+"API Authentication Methods","Métodos de autenticação da API",module,Magento_Paypal
 "API Username","Nome de usuário API",module,Magento_Paypal
 "API Password","Senha da API",module,Magento_Paypal
 "Get Credentials from PayPal","Obter Credenciais da PayPal",module,Magento_Paypal
@@ -9924,7 +9924,7 @@ ou mais. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" t
 "Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Ligue a sua conta de comerciante com um gateway completamente personalizável que permita aos clientes pagar sem sair do seu site.",module,Magento_Paypal
 "International AVS Indicator Does Not Match","O Indicador Internacional AVS Não Coincide",module,Magento_Paypal
 "Payflow Pro (Includes Express Checkout)","Payflow Pro (Inclui Checkout Express)",module,Magento_Paypal
-"Save for later use.","Gravar para uso futuro.",module,Magento_Paypal
+"Save for later use.","Salvar para compras futuras.",module,Magento_Paypal
 "Payments Standard","Payments Standard",module,Magento_Paypal
 "Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely.",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard",module,Magento_Paypal
@@ -10425,7 +10425,7 @@ of Service</a>. You may opt out at any time from the Stores Configuration page.<
 <p>Usando o Magento 2.2.2, você concorda com o Termos da <a href=""https://magento.com/legal/terms/privacy"" target=""_blank""> Política de Privacidade </a>,module,Magento_ReleaseNotification
 assim como os <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank""> Termos,module,Magento_ReleaseNotification
 de serviço</a>. Você pode optar por sair a qualquer momento na página ""Configuração de Lojas"".</p>                        ",module,Magento_ReleaseNotification
-"Instant Purchase","Compra instantânea",module,Magento_ReleaseNotification
+"Instant Purchase","Comprar agora",module,Magento_ReleaseNotification
 ",module,Magento_ReleaseNotification
 <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.,module,Magento_ReleaseNotification
 Logged-in customers can use previously-stored payment credentials and shipping information,module,Magento_ReleaseNotification
@@ -10443,7 +10443,7 @@ merchant needs.</span></li>,module,Magento_ReleaseNotification
 </ul>,module,Magento_ReleaseNotification
 ",",module,Magento_ReleaseNotification
 <p> Agora, você pode oferecer uma experiência semelhante à da Amazon com uma nova opção simplificada de check-out. Os clientes registrados podem usar credenciais de pagamento e informações de envio armazenadas anteriormente para saltar etapas, tornando o processo mais rápido e fácil, especialmente para compradores em dispositivos móveis. Os principais recursos incluem:</p>,module,Magento_ReleaseNotification
-<ul><li><span>Botão ""Compra instantânea"" configurável para fazer pedidos.</span></li>,module,Magento_ReleaseNotification
+<ul><li><span>Botão ""Comprar agora"" configurável para fazer pedidos.</span></li>,module,Magento_ReleaseNotification
 <li><span>Suporte para todas as soluções de pagamento usando o Braintree Vault, incluindo o Braintree Credit Card, o Braintree PayPal e o PayPal Payflow Pro.</span></li>,module,Magento_ReleaseNotification
 <li><span>Envio para o endereço padrão do cliente usando o método de envio mais barato e disponível.</span></li><li> <span>Capacidade de os desenvolvedores personalizarem a lógica comercial de compra instantânea para atender às necessidades dos comerciantes.</span></li></ul>                        ",module,Magento_ReleaseNotification
 "Email Marketing Automation","Automação de Email Marketing",module,Magento_ReleaseNotification
@@ -15515,14 +15515,14 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "No token found.","Nenhum arquivo encontrado.",module,Magento_Vault
 "Wrong request.","Solicitação inválida.",module,Magento_Vault
 "Deletion failure. Please try again.","Falha de exclusão. Por favor, tente novamente.",module,Magento_Vault
-"Stored Payment Method was successfully removed","Método de pagamento armazenado foi removido com êxito",module,Magento_Vault
-"Stored Payment Methods","Métodos de Pagamento armazenados",module,Magento_Vault
+"Stored Payment Method was successfully removed","Forma de pagamento armazenada removida com sucesso.",module,Magento_Vault
+"Stored Payment Methods","Formas de pagamento armazenados",module,Magento_Vault
 "No available payment tokens for specified order payment.","Não há tokens de pagamento disponíveis para pagamento de ordem especificado.",module,Magento_Vault
-"Card Number","Numero do cartao",module,Magento_Vault
-"Expiration Date","Data de Validade",module,Magento_Vault
+"Card Number","Número do cartão",module,Magento_Vault
+"Expiration Date","Vencimento",module,Magento_Vault
 "Type","Tipo",module,Magento_Vault
 "You have no stored payment methods.","Você tem não métodos de pagamento armazenados.",module,Magento_Vault
-"ending","acabando em",module,Magento_Vault
+"ending","Terminado em",module,Magento_Vault
 "Actions","Ações",module,Magento_Vault
 "Delete","Excluir",module,Magento_Vault
 "PayPal Account","Conta PayPal",module,Magento_Vault
