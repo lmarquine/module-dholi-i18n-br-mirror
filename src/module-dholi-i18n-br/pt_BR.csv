@@ -15516,7 +15516,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Wrong request.","Solicitação inválida.",module,Magento_Vault
 "Deletion failure. Please try again.","Falha de exclusão. Por favor, tente novamente.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Forma de pagamento armazenada removida com sucesso.",module,Magento_Vault
-"Stored Payment Methods","Formas de pagamento armazenados",module,Magento_Vault
+"Stored Payment Methods","Formas de pagamento armazenadas",module,Magento_Vault
 "No available payment tokens for specified order payment.","Não há tokens de pagamento disponíveis para pagamento de ordem especificado.",module,Magento_Vault
 "Card Number","Número do cartão",module,Magento_Vault
 "Expiration Date","Vencimento",module,Magento_Vault
